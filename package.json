@@ -75,8 +75,7 @@
   "version": "1.2.2",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
-    "preinstall": "npx npm-force-resolutions"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "browsers": [
     "> 1%",
